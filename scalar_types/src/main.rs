@@ -19,4 +19,5 @@ In rust, scalar types are:
     println! ("Your year of study is {}", year_you_are_currently_in);
     println! ("Is it true you're taking 7 units: {}", your_units);
     println! ("That's great comrade {}", smile);
+    
 }
