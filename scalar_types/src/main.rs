@@ -1,11 +1,14 @@
 fn main() {
 
 /* 
+    Scalar types are types that represent a single value.
 In rust, scalar types are:
     1. Integer: These are numbers without fraction components
     2. Floating point: Numbers with fraction components
     3. Boolean: true or false
     4. Characters: letters and emojis
+Scalar types are immutable by default
+
 */
 
 //Integers are: signed (storing both positive and negative values) and unsigned (stores only negative values)
