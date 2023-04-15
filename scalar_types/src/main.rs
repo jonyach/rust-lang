@@ -7,6 +7,8 @@ In rust, scalar types are:
     2. Floating point: Numbers with fraction components
     3. Boolean: true or false
     4. Characters: letters and emojis
+Scalar types are immutable by default
+
 */
 
 //Integers are: signed (storing both positive and negative values) and unsigned (stores only negative values)
