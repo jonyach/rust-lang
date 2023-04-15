@@ -1,6 +1,7 @@
 fn main() {
 
 /* 
+    Scalar types are types that represent a single value.
 In rust, scalar types are:
     1. Integer: These are numbers without fraction components
     2. Floating point: Numbers with fraction components
