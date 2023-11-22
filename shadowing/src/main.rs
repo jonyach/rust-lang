@@ -6,7 +6,7 @@ fn main() {
     println!("The maximum number of years that you can take in this Institution to study only one course is {} years", NUMBER_OF_MAX_YEARS_OF_STUDY);
 
 // only variables are mutable in rust but not constants
-    let mut faculty = "This one eill not be printed because it's muted";
+    // let mut faculty = "This one eill not be printed because it's muted";
     let faculty = "Science and Technology";
 
     println!("Your faculty name is {}", faculty); //runs with a warning of shadowing
