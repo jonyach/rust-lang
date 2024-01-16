@@ -1,5 +1,5 @@
 fn main() {
-    let school = "University of Nairobi";           //Variable
+    let school = "University of Nairobi";      //Variable
     const NUMBER_OF_MAX_YEARS_OF_STUDY:i32 = 6;     //Constant
     
     println!("You're currently enrolled at the {}", school);
